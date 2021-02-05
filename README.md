@@ -6,8 +6,7 @@
 ### 🌱 I’m currently learning 
    * React Native ,Flutter
    
-   [GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
 
 
 <!--
