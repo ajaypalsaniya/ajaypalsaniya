@@ -1,6 +1,6 @@
 ### Hi there 👋 Ajay Palsaniya !
 
-## I’m currently learning 
+# I’m currently learning 
 
 
 <!--
