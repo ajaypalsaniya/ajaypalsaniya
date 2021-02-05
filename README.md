@@ -1,3 +1,4 @@
+<div color="black">
 # Hi there 👋 [Ajay Palsaniya!](https://palsaniya.netlify.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypalsaniya&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypalsaniya" /> </p>
@@ -24,6 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaypalsaniya&show_icons=true&locale=en" alt="ajaypalsaniya" /></p>
 username=ajaypalsaniya&show_icons=true&locale=en&layout=compact" alt="ajaypalsaniya" /></p>
 
+</div>
 
 
    
