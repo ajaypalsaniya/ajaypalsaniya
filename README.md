@@ -1,5 +1,8 @@
 ### Hi there 👋 Ajay Palsaniya !
 
+## I’m currently learning 
+
+
 <!--
 **ajaypalsaniya/ajaypalsaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
