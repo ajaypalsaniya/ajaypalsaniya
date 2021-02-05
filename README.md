@@ -1,7 +1,10 @@
 # Hi there 👋 Ajay Palsaniya!
 
 ###  :sunglasses: I’m currently working on
-   * React
+   * React.js ,Zendesk ,Azure
+   
+### 🌱 I’m currently learning 
+   * React Native ,Flutter
 
 
 <!--
