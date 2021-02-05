@@ -1,7 +1,7 @@
 # Hi there 👋 Ajay Palsaniya!
 
 ###  :sunglasses: I’m currently working on
-   * React.js ,Zendesk ,Azure
+   * React.js, Zendesk, Azure
    
 ### 🌱 I’m currently learning 
    * React Native ,Flutter
