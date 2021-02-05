@@ -1,4 +1,4 @@
-# Hi there 👋 [Ajay Palsaniya](https://google.com)!
+# Hi there 👋 [Ajay Palsaniya!](palsaniya.netlify.app/)
 
 ###  :sunglasses: I’m currently working on
    * React.js, Zendesk, Azure
