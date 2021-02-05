@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### 🔭 I’m currently working on 
-     <li>React.js Zendesk Azure</li>
+<li>React.js Zendesk Azure</li>
 
 ### 🌱 I’m currently learning 
-     <li>Flutter React-Native</li>
+<li>Flutter React-Native</li>
 
 ### 👯 I’m looking to collaborate on
-      <li>React node.js projects</li>
+<li>React node.js projects</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
