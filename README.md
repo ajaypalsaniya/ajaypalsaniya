@@ -5,7 +5,7 @@
    
 ### 🌱 I’m currently learning 
    * React Native ,Flutter
-"https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg"
+
 
 <!--
 **ajaypalsaniya/ajaypalsaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
