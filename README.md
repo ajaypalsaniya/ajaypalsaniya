@@ -8,14 +8,14 @@
 ### 🔭 I’m currently working on 
 <li>React.js Zendesk Azure</li>
 
+### 👯 I’m looking to collaborate on
+<li>React node.js projects</li>
+
 ### 🌱 I’m currently learning 
 <li>React-Native</li>
 
-### 🌱 I’m currently learning 
+### 🌱 I want to learn 
 <li>Flutter</li>
-
-### 👯 I’m looking to collaborate on
-<li>React node.js projects</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
