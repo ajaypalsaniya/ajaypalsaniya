@@ -9,7 +9,10 @@
 <li>React.js Zendesk Azure</li>
 
 ### 🌱 I’m currently learning 
-<li>Flutter React-Native</li>
+<li>React-Native</li>
+
+### 🌱 I’m currently learning 
+<li>Flutter</li>
 
 ### 👯 I’m looking to collaborate on
 <li>React node.js projects</li>
